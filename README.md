@@ -23,6 +23,9 @@ Based on a real person monthly expenditures and adjusted not to be identical and
 
  **Dashboard**
 
+ ![K_Dashboard_PersonalFinances](https://github.com/user-attachments/assets/55647220-4ee9-4d15-8719-05c807515d1e)
+ 
+
  **Main Conclusions**
 
 Even though it was expected the rent to be the greatest value, it was interesting to see the weight of leisure, shopping and subscriptions, over all they almost matched the food expenses value and its a great opportunity to adresse it as a savings options.
